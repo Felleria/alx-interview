@@ -27,6 +27,6 @@ Create a function  that returns a list of lists of integers representing the P
 
 **Repo:**
 
-- GitHub repository: 
-- Directory: 
-- File: 
+- GitHub repository: alx-interview
+- Directory: 0x00-pascal_triangle
+- File: 0-pascal_triangle.py
